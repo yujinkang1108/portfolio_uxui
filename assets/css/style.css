@@ -1339,12 +1339,12 @@ body {
   transition: all 0.5s;
 }
 .sc-contact .sc-inner .card-area .card .card-content .text-list .ic-phone {
-  width: 130px;
-  height: 130px;
-  background: url(../img/phone.svg) no-repeat;
+  width: 150px;
+  height: 150px;
+  background: url(../img/pho.png) no-repeat;
 }
 .sc-contact .sc-inner .card-area .card .card-content .text-list .ic-phone:hover {
-  background: url(../img/ic-phone-white.svg) no-repeat;
+  background: url(../img/pho_w.png) no-repeat;
 }
 .sc-contact .sc-inner .card-area .card .card-content .text-list .ic-phone a {
   display: block;
@@ -1354,11 +1354,10 @@ body {
 .sc-contact .sc-inner .card-area .card .card-content .text-list .ic-mail {
   width: 150px;
   height: 150px;
-  padding-right: 10px;
-  background: url(../img/mail.svg) no-repeat;
+  background: url(../img/ema.png) no-repeat;
 }
 .sc-contact .sc-inner .card-area .card .card-content .text-list .ic-mail:hover {
-  background: url(../img/mail-white.svg) no-repeat;
+  background: url(../img/ema_w.png) no-repeat;
 }
 .sc-contact .sc-inner .card-area .card .card-content .text-list .ic-mail a {
   display: block;
